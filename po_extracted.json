@@ -1,0 +1,17 @@
+{
+  "po_number": "PO00002712",
+  "date": "24/03/2025",
+  "supplier": "PRINTCARE UNIVERSAL (PVT) LTD.,",
+  "delivery_date": "24/03/2025",
+  "grand_total": "1,375.00",
+  "vat": "247.50",
+  "products": [
+    {
+      "product_code": "ICN0239",
+      "description": "HYLEYS - PASSION FRUIT - 100 G (NEW) - (OR & OD) REF CODE - 3281 V 14 _ 0612024 (since 10.12.2024 ) 260 GSM / lvory/ Emboss / UV Varnish / 175 LPI 97 x 50 x 135 MM, 6 COLORS / GOLD FOIL ENGLISH,RUSSIAN,UKRAINIAN,ESTONIAN,GEORGI AN,BELARUSIAN",
+      "quantity": "25000.00",
+      "unit_price": "0.055000",
+      "total_value": "1,375.00"
+    }
+  ]
+}
